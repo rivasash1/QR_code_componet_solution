@@ -21,7 +21,7 @@ Challenge is to recreate this website of a QR only using HTML5  and CSS3
 
 ### Screenshot
 
-![](./screenshot.jpg)
+screenshot.jpg
 
 ### Links
 

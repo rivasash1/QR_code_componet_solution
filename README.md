@@ -25,8 +25,7 @@ Challenge is to recreate this website of a QR only using HTML5  and CSS3
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://rivasash1.github.io/QR_code_componet_solution/)
 
 ## My process
 First I coded my layout with HTML and then I used flexbox to create the border around the qr code and center it.
